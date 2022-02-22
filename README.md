@@ -3,6 +3,6 @@
 - MY STACK:
     Frontend - JS, TS, React, jQuery + some Svelte.
     Backend - Python, Django, PHP + some Java. 
-    Also comfortable with GIT, Docker, Databases
+    Also comfortable with GIT, Docker, SQL- and NoSQL-databases
     
 - 📫 You can reach me through my email karel.haapasalo@hotmail.com
